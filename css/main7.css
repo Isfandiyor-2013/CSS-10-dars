@@ -1,0 +1,132 @@
+body{
+    background-color: #cccccc;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+img{
+    margin-left: 450px;
+}
+.form-group{
+    width: 500px;
+    height: 700px;
+    border: 1px solid white;
+    background-color: white;
+}
+h1{
+    margin-left: 100px;
+}
+h3{
+    margin-left: 170px;
+}
+input{
+    width: 60%px;
+    height: 20px;
+    padding: 10px;
+}
+label{
+    width: 35%;
+}
+.name{
+    margin-left: 50px;
+}
+.surname{
+    margin-left: 30px;
+}
+input[type=submit]{
+    width: 200px;
+    height: 50px;
+    margin-left: 150px;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+a{ 
+    position: absolute;
+    left: 480px;
+    top: 760px;
+    font-size: 20px;
+}
+p{
+    margin-top: 300px;
+    position: relative;
+
+}
+.text{
+    width: 420px;
+    margin-top: 180px;
+    position: absolute;
+    margin-left: -80px;
+    border-radius: 5px;
+}
+.password{
+    width: 420px;
+    margin-top: 250px;
+    position: absolute;
+    margin-left: -80px;
+    border-radius: 5px;
+}
+.date{
+    margin-left: 20px;
+}
+.sel{
+    margin-top: 30px;
+    margin-left: -80px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    
+}
+.seli{
+    margin-top: 30px;
+    margin-left: 50px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    
+}
+.selii{
+    margin-top: 30px;
+    margin-left: 200px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    
+}
+.flor{
+    position: absolute;
+    top: 370px;
+    left: 400px;
+}
+.Women{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    font-size: 20px;
+}
+.men{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    font-size: 20px;
+}
+.ot{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+    font-size: 20px;
+}
+.d{
+    position: absolute;
+    top: 400px;
+}
+.b{
+    position: absolute;
+    top: 400px;
+    left: 540px;
+}
+.y{
+    position: absolute;
+    top: 400px;
+    left: 650px;
+}

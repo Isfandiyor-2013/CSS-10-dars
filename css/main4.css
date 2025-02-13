@@ -1,0 +1,57 @@
+body{
+    background-color: darkgray;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.for{
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px 0;
+    margin-left: 60px;
+    position: relative;
+}
+label{
+    width: 35%;
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+}
+input[type=submit]{
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 80px;
+    width: 20%;
+    background-color: blue;
+    color: white;
+    margin-left: 0;
+}
+.y{
+    margin-top: 50px;
+    margin-left: 30px;
+    position: absolute;
+}
+input[type=checkbox]{
+    margin-top: 53px;
+    margin-left: -560px;
+    position: absolute;
+}
+.y2{
+    margin-top: 20px;
+    margin-left: 160px;
+    position: absolute;
+}
+.sub input{
+    width: 400px;
+    margin-top: 60px;
+    margin-left: 50px;
+    background-color: gray;
+}
